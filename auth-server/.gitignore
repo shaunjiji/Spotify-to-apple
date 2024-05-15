@@ -1,1 +1,3 @@
 .env
+# Ignore Apple Auth key file
+*.p8
